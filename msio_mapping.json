@@ -1,0 +1,36 @@
+{
+  "triangle": {
+    "x": 0,
+    "y": 0,
+    "width": 50,
+    "height": 50
+  },
+  "round": {
+    "x": 50,
+    "y": 0,
+    "width": 50,
+    "height": 50,
+    "mask": true
+  },
+  "star": {
+    "x": 100,
+    "y": 0,
+    "width": 50,
+    "height": 50,
+    "mask": true
+  },
+  "square": {
+    "x": 150,
+    "y": 0,
+    "width": 50,
+    "height": 50,
+    "mask": true
+  },
+  "sun": {
+    "x": 200,
+    "y": 0,
+    "width": 50,
+    "height": 50,
+    "mask": true
+  }
+}
