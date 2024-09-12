@@ -1,0 +1,26 @@
+{
+  "arrow": {
+    "x": 0,
+    "y": 0,
+    "width": 57,
+    "height": 40,
+    "anchorY": 40,
+    "mask": true
+  },
+  "opposite": {
+    "x": 57,
+    "y": 0,
+    "width": 57,
+    "height": 40,
+    "anchorY": 40,
+    "mask": true
+  },
+  "round": {
+    "x": 122,
+    "y": 0,
+    "width": 40,
+    "height": 40,
+    "anchorY": 40,
+    "mask": true
+  }
+}
