@@ -4,13 +4,17 @@
     "y": 0,
     "width": 50,
     "height": 50,
-     "mask": true
+    "anchorX": 25,
+    "anchorY": 25,
+    "mask": true
   },
   "round": {
     "x": 50,
     "y": 0,
     "width": 50,
     "height": 50,
+    "anchorX": 25,
+    "anchorY": 25,
     "mask": true
   },
   "star": {
@@ -18,6 +22,8 @@
     "y": 0,
     "width": 50,
     "height": 50,
+    "anchorX": 25,
+    "anchorY": 25,
     "mask": true
   },
   "square": {
@@ -25,6 +31,8 @@
     "y": 0,
     "width": 50,
     "height": 50,
+    "anchorX": 25,
+    "anchorY": 25,
     "mask": true
   },
   "sun": {
@@ -32,6 +40,8 @@
     "y": 0,
     "width": 50,
     "height": 50,
+    "anchorX": 25,
+    "anchorY": 25,
     "mask": true
   }
 }
