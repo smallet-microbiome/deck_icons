@@ -3,7 +3,8 @@
     "x": 0,
     "y": 0,
     "width": 50,
-    "height": 50
+    "height": 50,
+     "mask": true
   },
   "round": {
     "x": 50,
